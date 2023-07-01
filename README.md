@@ -10,3 +10,8 @@
   - COVID-19 Dataset: Data Exploration
   
      _Review the SQL Script_: [HERE](https://github.com/Ngatran19/PersonalPractice/blob/main/Data%20Exploration.sql)
+
+
+  - Financial Transactions Dataset: Data Cleaning and Data Exploration
+
+    _Review the SQL Script_: [HERE](https://github.com/Ngatran19/PersonalPractice/blob/main/Financial_transaction.sql)
