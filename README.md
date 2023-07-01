@@ -21,5 +21,5 @@
 
   * DATA PROFESSIONAL SURVEY BREAKDOWN
    
-   ![![image](https://github.com/Ngatran19/PersonalPractice/assets/137743876/612c1a4a-25b9-407a-b630-cd360ffe6592)]
+   ![image](https://github.com/Ngatran19/PersonalPractice/assets/137743876/612c1a4a-25b9-407a-b630-cd360ffe6592)
 
