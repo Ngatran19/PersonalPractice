@@ -15,3 +15,11 @@
   - Financial Transactions Dataset: Data Cleaning and Data Exploration
 
     _Review the SQL Script_: [HERE](https://github.com/Ngatran19/PersonalPractice/blob/main/Financial_transaction.sql)
+
+
+2. **Power BI** -
+
+  * DATA PROFESSIONAL SURVEY BREAKDOWN
+   
+   ![![image](https://github.com/Ngatran19/PersonalPractice/assets/137743876/612c1a4a-25b9-407a-b630-cd360ffe6592)]
+
