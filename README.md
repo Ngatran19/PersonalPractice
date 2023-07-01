@@ -1,6 +1,9 @@
 # PersonalPractice
-This repository will contain all the SQL and Power BI exercises that I practice myself.
+## Following are my projects in SQL, Power Bi & Excel:
+[x]**SQL** -
 
-Here, there will be projects that I practice based on the projects of others and there are also projects that I tinker with and research on my own.
+Nashville Housing Dataset: Data Cleaning
+Review the SQL Script: [HERE](https://github.com/Ngatran19/PersonalPractice/blob/main/Data%20Cleasing.sql)
 
-If possible I hope you can give me a suggestion or comment.
+COVID-19 Dataset: Data Exploration
+Review the SQL Script: [HERE](https://github.com/Ngatran19/PersonalPractice/blob/main/Data%20Exploration.sql)
